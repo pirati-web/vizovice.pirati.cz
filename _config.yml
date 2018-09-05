@@ -7,7 +7,7 @@
 
 # Site settings
 title: Pirátská strana | VIZ
-email: to@pirati.cz
+# email: to@pirati.cz
 description: > # this means to ignore newlines until "baseurl:"
   Web Pirátů z Vizovic.
 url: "https://vizovice.pirati.cz" # the base hostname & protocol for your site
