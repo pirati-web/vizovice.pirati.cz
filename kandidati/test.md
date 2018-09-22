@@ -5,7 +5,7 @@ rbar: ""
 ogimage: https://raw.githubusercontent.com/pirati-web/uh.pirati.cz/master/assets/img/miscellaneous/fbkandidatix.jpg
 ---
 
-1. Slezák Jarek
-2. testovaci 1
-3. testovaci
-4. testovaci
+Pirátští kandidáti do zastupitelstva města Vizovice
+
+1. Jaromír Slezák 
+2. Markéta Ryšavá 
