@@ -11,3 +11,4 @@ ogimage: https://raw.githubusercontent.com/pirati-web/uh.pirati.cz/master/assets
 5. Karin Čadanová
 6. Ing. Lubomír Čech
 7. Jan Špaňhel
+8. 
