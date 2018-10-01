@@ -4,7 +4,7 @@ title: Pirátští kandidáti do zastupitelstva města Vizovice
 rbar: ""
 ogimage: https://raw.githubusercontent.com/pirati-web/uh.pirati.cz/master/assets/img/miscellaneous/fbkandidatix.jpg
 ---
-1. **Jaromír Slezák**, 30let, Disponent zahraniční dopravy
+1. [**Jaromír Slezák**](/lide/jaromir-slezak), 30let, Disponent zahraniční dopravy
 2. **Markéta Ryšavá**, 32let, Učitelka
 3. **Martin Vlček, 36let**, Majitel Kozí farmy
 4. **Bronislava Grebeníčková**, 34let, Pečovatelka
