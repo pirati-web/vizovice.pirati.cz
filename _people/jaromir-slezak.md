@@ -4,7 +4,7 @@ name:     Jaromír Slezák  	# běžně používáné jméno
 fullname: Jaromír Slezák  	# jméno s tituly etc.
 category:                   # kategorie
 - kontakt
-- kandidat
+- kandidat ordkandidati: 1
 
 img: people/jaromir-slezak.jpg   # 165 x 220
 description: lídr komunální kandidátky          	# kratký popis, max 160 znaků
