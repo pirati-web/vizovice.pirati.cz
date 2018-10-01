@@ -2,7 +2,7 @@
 layout: page
 title: Pirátští kandidáti do zastupitelstva města Vizovice
 rbar: ""
-ogimage: https://raw.githubusercontent.com/pirati-web/uh.pirati.cz/master/assets/img/miscellaneous/fbkandidatix.jpg
+ogimage: https://raw.githubusercontent.com/pirati-web/vizovice.pirati.cz/master/assets/img/miscellaneous/vizovice.jpg
 ---
 1. [**Jaromír Slezák**](/lide/jaromir-slezak), 30let, Disponent zahraniční dopravy
 2. **Markéta Ryšavá**, 32let, Učitelka
