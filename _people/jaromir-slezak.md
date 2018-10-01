@@ -6,9 +6,9 @@ category:                   # kategorie
 - kontakt
 - kandidat
 
-img: people/ppp.jpg   # 165 x 220
+img: people/jaromir-slezak.jpg   # 165 x 220
 description: lídr komunální kandidátky          	# kratký popis, max 160 znaků
-mob:			  +420 333 333 333
+mob:			  +420 601 391 804
 mail:
 - jaromir.slezak@pirati.cz
 profiles:
