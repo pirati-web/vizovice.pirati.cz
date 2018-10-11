@@ -6,7 +6,7 @@ category:                   # kategorie
 - kontakt
 - kandidat
 
-img: people/jaromir-slezak.jpg   # 165 x 220
+img: people/milan-vasicek.jpg   # 165 x 220
 description:           	# kratký popis, max 160 znaků
 mob:			  
 mail:
