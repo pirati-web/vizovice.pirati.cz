@@ -7,14 +7,14 @@ category:                   # kategorie
 - kandidat
 
 img: people/jaromir-slezak.jpg   # 165 x 220
-description: lídr komunální kandidátky          	# kratký popis, max 160 znaků
+description: člen zastupitelstva         	# kratký popis, max 160 znaků
 mob:			  +420 601 391 804
 mail:
 - jaromir.slezak@pirati.cz
 profiles:
   facebook: https://www.facebook.com/jerry.slezak
 ordkontakty: 1
-ordkandidat: 1 
+ordkandidat: 1
 
 ---
 
