@@ -9,7 +9,7 @@ image: /assets/img/posts/uklidme-cesko.jpg
 tags: 'Piráti-Vizovice'
 ---
 Dne 15.9.2018 jsme se zapojili do celorepublikové dobrovolnické akce Ukliďme Česko. Do akce se zapojují školáci, skauti, politici, vysokoškoláci, důchodci...Zkrátka všichni, kdo mají zájem udělat něco pro své okolí.
-Ráno to vypadalo na nepříznivé počasí, a to se taky projevilo na účasti dobrovolníků, avšak během dne se udělalo pěkně, což nám zlepšilo náladu.
+{:target="_blank"}Ráno to vypadalo na nepříznivé počasí, a to se taky projevilo na účasti dobrovolníků, avšak během dne se udělalo pěkně, což nám zlepšilo náladu.
 
 Začali jsme sbírat na náměstí, kde byla hromada nedopalků od cigaret a dalšího odpadu. Nejhorší na tom bylo to, že nehorázné množství odpadků bylo poházených kolem koše. Asi je moc náročné se ohnout a vyhodit to, co mi spadlo vedle..
 
