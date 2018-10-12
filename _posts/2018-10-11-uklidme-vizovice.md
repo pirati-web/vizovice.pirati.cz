@@ -2,11 +2,11 @@
 layout: blog
 category: CLANKY
 title: 'UKLIĎME ČESKO UKLIĎME VIZOVICE'
-date: 2018-10-11T20:17:00.032Z
+date: 2018-10-12T20:17:00
 author: Milan Vašíček
 authorId: milan.vašíček
 image: /assets/img/posts/uklidme-cesko.jpg
-tags: 'Piráti Vizovice'
+tags: 'Piráti-Vizovice'
 ---
 Dne 15.9.2018 jsme se zapojili do celorepublikové dobrovolnické akce Ukliďme Česko. Do akce se zapojují školáci, skauti, politici, vysokoškoláci, důchodci...Zkrátka všichni, kdo mají zájem udělat něco pro své okolí.
 Ráno to vypadalo na nepříznivé počasí, a to se taky projevilo na účasti dobrovolníků, avšak během dne se udělalo pěkně, což nám zlepšilo náladu.
