@@ -3,7 +3,7 @@ layout: blog
 category: CLANKY
 title: 'Na dvě orosená s poslancem Frantou Elfmarkem'
 date: 2018-12-02T01:30:00.032Z
-author: Michal Štěpaník 
+author: Jaromír Slezák 
 authorId: jaromir.slezak
 image: /assets/img/posts/elfmark_pivo.jpg
 tags: 'poslanec'
