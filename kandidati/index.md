@@ -10,7 +10,7 @@ ogimage: https://raw.githubusercontent.com/pirati-web/vizovice.pirati.cz/master/
 4. **Bronislava Grebeníčková**, 34let, Pečovatelka
 5. **Karin Čadanová, 24let**, Mateřská dovolená
 6. **Ing. Lubomír Čech**, 35let, Referent
-7. [**Jan Špaňhel**](/lide/jan.spanhel) 36let, Programátor
+7. [**Jan Špaňhel**](/lide/jan-spanhel), 36let, Programátor
 8. **František Stodola**, 26let, OSVČ
 9. **Martina Štachová**, 26let, Kadeřnice
 10. **Tomáš Mazal**, 36let, OSVČ
