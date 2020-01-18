@@ -9,7 +9,7 @@ category:                   # kategorie
 img: people/jan-spanhel.jpg   # 165 x 220
 description: člen zastupitelstva          	# kratký popis, max 160 znaků
 mob:			  
-mail:
+mail: jan.spanhel@vizovice.eu
 
 profiles:
   facebook:
