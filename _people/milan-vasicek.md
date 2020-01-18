@@ -1,5 +1,5 @@
 ---
-uid: milan.vašíček
+uid: milan.vasicek
 name:     Milan Vašíček  	# běžně používáné jméno
 fullname: Milan Vašíček  	# jméno s tituly etc.
 category:                   # kategorie
