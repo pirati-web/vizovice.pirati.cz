@@ -1,5 +1,5 @@
 ---
-uid: jaromír.slezák
+uid: jaromir.slezak
 name:     Jaromír Slezák  	# běžně používáné jméno
 fullname: Jaromír Slezák  	# jméno s tituly etc.
 category:                   # kategorie
