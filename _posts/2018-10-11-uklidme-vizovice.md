@@ -4,7 +4,7 @@ category: CLANKY
 title: 'UKLIĎME ČESKO UKLIĎME VIZOVICE'
 date: 2018-09-16T20:17:00
 author: Michal Vaculík
-authorId: 
+authorId: michal.vaculik
 image:        /assets/img/posts/uklidme-cesko.jpg
 tags: 'Piráti-Vizovice'
 ---
