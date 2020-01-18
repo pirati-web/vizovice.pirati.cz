@@ -3,8 +3,8 @@ layout: blog
 category: CLANKY
 title: 'Ze Zlína se stává chytré město!'
 date: 2019-11-01
-author: Jaromír Slezák
-authorId: jaromir.slezak
+author: Jiří Jaroš
+authorId: jiri.jaros
 image: /assets/img/posts/zlinradnice.jpg  
 tags: 'zlinsky-kraj zlin jiri-jaros radnice'
 ---
