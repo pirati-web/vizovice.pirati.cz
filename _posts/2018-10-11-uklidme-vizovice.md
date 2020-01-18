@@ -3,8 +3,8 @@ layout: blog
 category: CLANKY
 title: 'UKLIĎME ČESKO UKLIĎME VIZOVICE'
 date: 2018-09-16T20:17:00
-author: Milan Vašíček
-authorId: milan.vasicek
+author: Michal Vaculík
+authorId: 
 image:        /assets/img/posts/uklidme-cesko.jpg
 tags: 'Piráti-Vizovice'
 ---
