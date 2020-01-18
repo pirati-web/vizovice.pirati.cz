@@ -1,5 +1,5 @@
 ---
-uid: jan.špaňhel
+uid: jan.španhel
 name:     Jan Špaňhel  	# běžně používáné jméno
 fullname: Jan Špaňhel  	# jméno s tituly etc.
 category:                   # kategorie
