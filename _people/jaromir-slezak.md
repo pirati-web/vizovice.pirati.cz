@@ -8,7 +8,7 @@ category:                   # kategorie
 
 img: people/jaromir-slezak.jpg   # 165 x 220
 description: člen zastupitelstva         	# kratký popis, max 160 znaků
-mob:			  +420 732559610
+mob:			  +420 732 559 610
 mail:
 - jaromir.slezak@pirati.cz
 profiles:
