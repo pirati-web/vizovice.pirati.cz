@@ -4,7 +4,7 @@ category:     blog
 tags:         volby
 layout:       post
 title:        "Piráti v sobotu zahájí tour volebního autobusu budoucnosti. Brázdit celou zemi bude až do voleb"
-image:        /assets/img/autobus.jpg
+image:        /assets/img/posts/autobus.jpg
 ---  
 
 Praha, 7. srpna 2020 – Speciální pirátský volební autobus zahájí v sobotu 8. srpna 2020 svou předvolební jízdu, v průběhu dvou měsíců zavítá do všech koutů České republiky. Kromě představení programu pro krajské a senátní volby a prezentaci krajských kandidátů veřejnosti nabídne autobus také vhled do delší budoucnosti – ať už VR brýlemi, elektrickou jednokolkou nebo holografickým projektorem.
