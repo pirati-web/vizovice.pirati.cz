@@ -2,7 +2,7 @@
 layout: blog
 category: CLANKY
 title: 'CHCE TO ZMĚNU, hlásí Piráti ve Zlínském kraji, kteří odstartovali krajskou kampaň s ambicemi vyhrát'
-date: 2020-06-08
+date: 2020-07-20
 author: Jaromír Horký
 authorId: jaromir.horky
 image: /assets/img/posts/chcetozmenu.jpg
