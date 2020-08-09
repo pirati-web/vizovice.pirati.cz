@@ -3,7 +3,9 @@ date:         2020-08-07
 category:     blog
 tags:         volby
 layout:       post
-title:        "Piráti v sobotu zahájí tour volebního autobusu budoucnosti. 12.8.2020 zastaví i ve Vizovicích!"
+author:       Mediální odbor
+authorId:
+title:        "Piráti zahájili tour volebního autobusu budoucnosti. 12.8.2020 zastaví i ve Vizovicích!"
 image:        /assets/img/posts/autobus.jpg
 ---  
 
