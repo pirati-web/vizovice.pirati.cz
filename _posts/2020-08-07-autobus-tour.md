@@ -16,6 +16,8 @@ Každý den až do dne konání krajských a senátních voleb mohou občané do
 **ŠANCE ZMĚNIT ZLÍNSKÝ KRAJ!🖤
 Na Masarykovo náměstí ve Vizovicích už 12. srpna od 10.00hod do 11.00hod. dorazí pirátský autobus budoucnosti!✅ Budete moci vyzkoušet nejrůznější moderní technologie od dronů přes 3D tiskárny až po hydroponické pěstování rostlin! 😲
 Přijďte za námi okusit budoucnost!🔥**
+
+FB událost je [zde](https://www.facebook.com/events/241121293543863/){:target="_blank"}
  
 
 * [Program tour autobusu a jednotlivých zastávek autobusu + kontaktní osoby](https://pirati.cz/assets/pdf/Roadplan-autobus.pdf)
