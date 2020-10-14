@@ -16,8 +16,8 @@ Mimořádné 13. veřejné zasedání Zastupitelstva města Vizovice se uskuteč
 
 Projednával se totiž jen jeden zásadní bod a to, jestli se pošle žádost o dotaci na Ministersvo pro místní rozvoj kvůli hojně diskutovanému ARBORETU VIZOVICE a Rekonstrukci bývalého evangelického hřbitova ve Vizovicích.
 
-❗ Prohlasovala se cenově nejvyšší verze projektů na tyto akce (celkem 7,1 mil. korun s DPH). ❗
-Tentokrát už o jeden hlas navíc. 
+**❗ Prohlasovala se cenově nejvyšší verze projektů na tyto akce (celkem 7,1 mil. korun s DPH). ❗
+Tentokrát už o jeden hlas navíc.** 
 
 
 
