@@ -5,7 +5,7 @@ title: '13.té (již třetí mimořádné) jednání zastupitelstva města'
 date: 2020-08-26
 author: Jaromír Slezák
 authorId: jaromir.slezak
-image: /assets/img/posts/radnice.jpg  
+image: /assets/img/posts/arboretum.jpg  
 tags: 'vizovice zastupitelstvo '
 ---
 Mimořádné 13. veřejné zasedání Zastupitelstva města Vizovice se uskutečnilo v pondělí 24. srpna 2020 v 17:00 hod. v zasedací místnosti č. 316 městského úřadu, Masarykovo nám. 1007 ve Vizovicích
