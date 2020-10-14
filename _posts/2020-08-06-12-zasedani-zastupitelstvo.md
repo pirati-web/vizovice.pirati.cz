@@ -2,7 +2,7 @@
 layout: blog
 category: CLANKY
 title: '12.té (mimořádné) jednání zastupitelstva města'
-date: 2020-08-10
+date: 2020-08-06
 author: Jaromír Slezák
 authorId: jaromir.slezak
 image: /assets/img/posts/radnice.jpg  
