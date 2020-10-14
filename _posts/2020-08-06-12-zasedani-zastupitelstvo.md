@@ -25,7 +25,7 @@ Program:
 
 
 
-Na minulém 11. mimořádném zastupitelstvu 2 zastupitelé odmítli již schválenou dotaci z Ministersva pro místní rozvoj na pumptrack a místo toho nám předhazovali Arboretum, na které ještě není odeslána žádost o dotaci. 
+Na minulém 11. mimořádném zastupitelstvu 2 zastupitelé odmítli **již schválenou dotaci z Ministersva pro místní rozvoj na pumptrack a místo toho nám předhazovali Arboretum, na které ještě není odeslána žádost o dotaci.** 
 
 
 My s realizací Arboreta v této části Vizovic, mezi fotbalovým a víceúčelovým hřištěm nesouhlasíme. Máme krásnou a rozsáhlou zámeckou zahradu, která je otevřená celý den.
