@@ -21,7 +21,7 @@ Tentokrát už o jeden hlas navíc.
 
 
 
-Náš postoj je stále stejný a tento projekt Piráti nepodpořili. Uvidíme, co na to lidé na ministerstvu a jestli schválí 85% pokrytí částky z dotace.O výsledku Vás budeme jistě informovat.
+Náš postoj je stále stejný a tento projekt Piráti nepodpořili. Uvidíme, co na to lidé na ministerstvu a jestli schválí 85% pokrytí částky z dotace. O výsledku Vás budeme informovat.
 
 
 **Celé zastupitelstvo trvalo pouhých 21 minut.**
