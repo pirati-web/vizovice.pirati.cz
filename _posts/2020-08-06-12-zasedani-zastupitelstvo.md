@@ -5,7 +5,7 @@ title: '12.té (mimořádné) jednání zastupitelstva města'
 date: 2020-08-06
 author: Jaromír Slezák
 authorId: jaromir.slezak
-image: /assets/img/posts/radnice.jpg  
+image: /assets/img/posts/radnice6.jpg  
 tags: 'vizovice zastupitelstvo '
 ---
 Mimořádné 12. veřejné zasedání Zastupitelstva města Vizovice proběhlo ve středu 5. srpna 2020 v 17:00 hod. v prostorách MěÚ Vizovice.
